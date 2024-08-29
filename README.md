@@ -1,2 +1,3 @@
 # Minecraft Launcher Python
-Minecraft Launcher made using the python programming language. Uses Fabric and a couple mods to get really good performance compared to bone-stock minecraft.
+A Minecraft Launcher made using Python 3, capable of downloading performance-enchancing mods alongside the official version of Minecraft.
+Client is in CLI-only for the moment. This may change later down the line.
